@@ -1,4 +1,30 @@
 # Python-Automation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Connecting with MS outlook and attaching the excel file to be sent via email.
 #to interact with outlook
 import win32com.client as win32
